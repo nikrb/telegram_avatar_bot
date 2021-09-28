@@ -1,0 +1,5 @@
+botenv/Include
+botenv/Lib
+botenv/Scripts/*.exe
+notes.txt
+credentials.py
